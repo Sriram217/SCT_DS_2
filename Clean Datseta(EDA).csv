@@ -1,0 +1,1310 @@
+Index,new_pclass,new_survived,sex,new_age
+1,First Class,Survived,female,20-29 years
+2,First Class,Survived,male,0-9 years
+3,First Class,did not survive,female,0-9 years
+4,First Class,did not survive,male,30-39 years
+5,First Class,did not survive,female,20-29 years
+6,First Class,Survived,male,40-49 years
+7,First Class,Survived,female,60-69 years
+8,First Class,did not survive,male,30-39 years
+9,First Class,Survived,female,50-59 years
+10,First Class,did not survive,male,70-79 years
+11,First Class,did not survive,male,40-49 years
+12,First Class,Survived,female,10-19 years
+13,First Class,Survived,female,20-29 years
+14,First Class,Survived,female,20-29 years
+15,First Class,Survived,male,80-89 years
+16,First Class,did not survive,male,20-29 years
+17,First Class,did not survive,male,20-29 years
+18,First Class,Survived,female,50-59 years
+19,First Class,Survived,female,30-39 years
+20,First Class,did not survive,male,30-39 years
+21,First Class,Survived,male,30-39 years
+22,First Class,Survived,female,40-49 years
+23,First Class,Survived,male,20-29 years
+24,First Class,Survived,female,40-49 years
+25,First Class,Survived,female,20-29 years
+26,First Class,did not survive,male,20-29 years
+27,First Class,Survived,male,20-29 years
+28,First Class,Survived,female,10-19 years
+29,First Class,Survived,female,30-39 years
+30,First Class,Survived,male,20-29 years
+31,First Class,did not survive,male,40-49 years
+32,First Class,Survived,male,40-49 years
+33,First Class,Survived,female,30-39 years
+34,First Class,Survived,female,50-59 years
+35,First Class,did not survive,male,40-49 years
+36,First Class,Survived,female,40-49 years
+37,First Class,Survived,female,20-29 years
+38,First Class,Survived,male,20-29 years
+39,First Class,did not survive,male,40-49 years
+40,First Class,did not survive,male,40-49 years
+41,First Class,did not survive,male,20-29 years
+42,First Class,Survived,female,40-49 years
+43,First Class,Survived,female,50-59 years
+44,First Class,Survived,female,60-69 years
+45,First Class,Survived,female,40-49 years
+46,First Class,did not survive,male,40-49 years
+47,First Class,did not survive,male,20-29 years
+48,First Class,Survived,male,40-49 years
+49,First Class,Survived,female,50-59 years
+50,First Class,Survived,male,30-39 years
+51,First Class,Survived,female,50-59 years
+52,First Class,did not survive,male,30-39 years
+53,First Class,did not survive,male,20-29 years
+54,First Class,did not survive,male,10-19 years
+55,First Class,Survived,male,10-19 years
+56,First Class,Survived,female,10-19 years
+57,First Class,Survived,male,30-39 years
+58,First Class,Survived,female,30-39 years
+59,First Class,did not survive,male,40-49 years
+60,First Class,Survived,female,20-29 years
+61,First Class,did not survive,male,30-39 years
+62,First Class,Survived,female,70-79 years
+63,First Class,did not survive,male,40-49 years
+64,First Class,Survived,female,40-49 years
+65,First Class,Survived,male,20-29 years
+66,First Class,Survived,female,30-39 years
+67,First Class,Survived,female,30-39 years
+68,First Class,Survived,female,30-39 years
+69,First Class,Survived,male,40-49 years
+70,First Class,Survived,female,20-29 years
+71,First Class,did not survive,male,20-29 years
+72,First Class,did not survive,male,20-29 years
+73,First Class,Survived,female,20-29 years
+74,First Class,Survived,female,20-29 years
+75,First Class,did not survive,male,20-29 years
+76,First Class,did not survive,male,40-49 years
+77,First Class,Survived,female,30-39 years
+78,First Class,did not survive,male,30-39 years
+79,First Class,Survived,female,60-69 years
+80,First Class,Survived,female,50-59 years
+81,First Class,did not survive,male,20-29 years
+82,First Class,did not survive,male,70-79 years
+83,First Class,Survived,female,30-39 years
+84,First Class,Survived,female,60-69 years
+85,First Class,did not survive,male,30-39 years
+86,First Class,Survived,female,30-39 years
+87,First Class,Survived,male,50-59 years
+88,First Class,Survived,male,20-29 years
+89,First Class,Survived,female,30-39 years
+90,First Class,did not survive,male,30-39 years
+91,First Class,Survived,female,20-29 years
+92,First Class,Survived,male,30-39 years
+93,First Class,Survived,female,10-19 years
+94,First Class,Survived,male,50-59 years
+95,First Class,Survived,male,0-9 years
+96,First Class,Survived,female,50-59 years
+97,First Class,did not survive,male,50-59 years
+98,First Class,Survived,female,20-29 years
+99,First Class,Survived,female,40-49 years
+100,First Class,Survived,female,40-49 years
+101,First Class,Survived,male,40-49 years
+102,First Class,did not survive,male,30-39 years
+103,First Class,Survived,female,20-29 years
+104,First Class,Survived,female,30-39 years
+105,First Class,Survived,female,50-59 years
+106,First Class,did not survive,female,30-39 years
+107,First Class,did not survive,male,20-29 years
+108,First Class,Survived,female,20-29 years
+109,First Class,Survived,female,20-29 years
+110,First Class,Survived,male,30-39 years
+111,First Class,did not survive,male,30-39 years
+112,First Class,Survived,female,20-29 years
+113,First Class,Survived,female,20-29 years
+114,First Class,Survived,female,20-29 years
+115,First Class,did not survive,male,10-19 years
+116,First Class,did not survive,male,60-69 years
+117,First Class,Survived,female,60-69 years
+118,First Class,Survived,female,30-39 years
+119,First Class,did not survive,male,20-29 years
+120,First Class,Survived,male,50-59 years
+121,First Class,Survived,male,40-49 years
+122,First Class,Survived,female,20-29 years
+123,First Class,Survived,female,20-29 years
+124,First Class,Survived,male,60-69 years
+125,First Class,Survived,female,40-49 years
+126,First Class,did not survive,male,20-29 years
+127,First Class,did not survive,male,30-39 years
+128,First Class,Survived,female,30-39 years
+129,First Class,did not survive,male,40-49 years
+130,First Class,Survived,female,30-39 years
+131,First Class,Survived,female,20-29 years
+132,First Class,Survived,female,40-49 years
+133,First Class,did not survive,male,20-29 years
+134,First Class,Survived,male,40-49 years
+135,First Class,Survived,female,20-29 years
+136,First Class,did not survive,male,70-79 years
+137,First Class,Survived,male,50-59 years
+138,First Class,Survived,female,10-19 years
+139,First Class,did not survive,male,30-39 years
+140,First Class,Survived,female,50-59 years
+141,First Class,Survived,male,20-29 years
+142,First Class,Survived,female,40-49 years
+143,First Class,did not survive,male,40-49 years
+144,First Class,Survived,male,20-29 years
+145,First Class,Survived,female,20-29 years
+146,First Class,Survived,male,40-49 years
+147,First Class,Survived,female,40-49 years
+148,First Class,did not survive,male,20-29 years
+149,First Class,did not survive,male,40-49 years
+150,First Class,Survived,female,30-39 years
+151,First Class,did not survive,male,40-49 years
+152,First Class,Survived,male,20-29 years
+153,First Class,Survived,male,20-29 years
+154,First Class,Survived,female,20-29 years
+155,First Class,did not survive,male,50-59 years
+156,First Class,Survived,female,50-59 years
+157,First Class,did not survive,male,40-49 years
+158,First Class,did not survive,male,20-29 years
+159,First Class,did not survive,male,50-59 years
+160,First Class,Survived,female,10-19 years
+161,First Class,Survived,female,40-49 years
+162,First Class,Survived,female,50-59 years
+163,First Class,did not survive,male,40-49 years
+164,First Class,Survived,female,30-39 years
+165,First Class,Survived,male,30-39 years
+166,First Class,Survived,male,30-39 years
+167,First Class,did not survive,male,20-29 years
+168,First Class,Survived,female,30-39 years
+169,First Class,Survived,female,30-39 years
+170,First Class,did not survive,female,50-59 years
+171,First Class,Survived,male,40-49 years
+172,First Class,did not survive,male,40-49 years
+173,First Class,did not survive,male,50-59 years
+174,First Class,did not survive,male,30-39 years
+175,First Class,did not survive,male,50-59 years
+176,First Class,did not survive,male,40-49 years
+177,First Class,Survived,female,20-29 years
+178,First Class,Survived,male,40-49 years
+179,First Class,Survived,female,40-49 years
+180,First Class,did not survive,male,20-29 years
+181,First Class,Survived,female,30-39 years
+182,First Class,Survived,female,40-49 years
+183,First Class,Survived,female,30-39 years
+184,First Class,Survived,male,30-39 years
+185,First Class,did not survive,male,20-29 years
+186,First Class,did not survive,male,40-49 years
+187,First Class,Survived,female,50-59 years
+188,First Class,Survived,female,10-19 years
+189,First Class,Survived,female,50-59 years
+190,First Class,did not survive,male,20-29 years
+191,First Class,Survived,female,20-29 years
+192,First Class,did not survive,male,30-39 years
+193,First Class,Survived,female,50-59 years
+194,First Class,Survived,female,10-19 years
+195,First Class,did not survive,male,30-39 years
+196,First Class,Survived,female,10-19 years
+197,First Class,Survived,male,20-29 years
+198,First Class,did not survive,male,10-19 years
+199,First Class,Survived,female,10-19 years
+200,First Class,Survived,female,20-29 years
+201,First Class,did not survive,male,40-49 years
+202,First Class,did not survive,male,50-59 years
+203,First Class,Survived,male,30-39 years
+204,First Class,did not survive,male,20-29 years
+205,First Class,Survived,female,20-29 years
+206,First Class,did not survive,male,60-69 years
+207,First Class,did not survive,male,40-49 years
+208,First Class,Survived,female,30-39 years
+209,First Class,Survived,female,30-39 years
+210,First Class,Survived,male,30-39 years
+211,First Class,did not survive,male,50-59 years
+212,First Class,did not survive,male,40-49 years
+213,First Class,did not survive,male,30-39 years
+214,First Class,Survived,female,30-39 years
+215,First Class,Survived,female,20-29 years
+216,First Class,did not survive,male,50-59 years
+217,First Class,Survived,female,10-19 years
+218,First Class,did not survive,male,60-69 years
+219,First Class,Survived,female,30-39 years
+220,First Class,Survived,male,20-29 years
+221,First Class,Survived,female,20-29 years
+222,First Class,did not survive,male,60-69 years
+223,First Class,did not survive,male,20-29 years
+224,First Class,did not survive,male,20-29 years
+225,First Class,did not survive,male,40-49 years
+226,First Class,did not survive,male,20-29 years
+227,First Class,did not survive,male,20-29 years
+228,First Class,Survived,female,20-29 years
+229,First Class,did not survive,male,10-19 years
+230,First Class,Survived,female,10-19 years
+231,First Class,Survived,female,30-39 years
+232,First Class,Survived,male,50-59 years
+233,First Class,did not survive,male,40-49 years
+234,First Class,Survived,female,50-59 years
+235,First Class,did not survive,male,30-39 years
+236,First Class,Survived,male,20-29 years
+237,First Class,did not survive,male,20-29 years
+238,First Class,did not survive,male,20-29 years
+239,First Class,Survived,female,40-49 years
+240,First Class,did not survive,male,30-39 years
+241,First Class,Survived,male,40-49 years
+242,First Class,did not survive,male,20-29 years
+243,First Class,Survived,female,30-39 years
+244,First Class,did not survive,male,40-49 years
+245,First Class,did not survive,male,30-39 years
+246,First Class,Survived,female,30-39 years
+247,First Class,did not survive,male,50-59 years
+248,First Class,Survived,female,50-59 years
+249,First Class,did not survive,male,30-39 years
+250,First Class,Survived,male,10-19 years
+251,First Class,Survived,female,10-19 years
+252,First Class,Survived,female,20-29 years
+253,First Class,did not survive,male,60-69 years
+254,First Class,Survived,female,40-49 years
+255,First Class,Survived,male,20-29 years
+256,First Class,Survived,female,20-29 years
+257,First Class,Survived,male,20-29 years
+258,First Class,Survived,female,30-39 years
+259,First Class,Survived,female,30-39 years
+260,First Class,Survived,male,30-39 years
+261,First Class,Survived,female,40-49 years
+262,First Class,Survived,male,30-39 years
+263,First Class,did not survive,male,50-59 years
+264,First Class,Survived,female,30-39 years
+265,First Class,Survived,male,50-59 years
+266,First Class,Survived,male,20-29 years
+267,First Class,did not survive,male,50-59 years
+268,First Class,did not survive,male,50-59 years
+269,First Class,did not survive,male,20-29 years
+270,First Class,did not survive,male,20-29 years
+271,First Class,Survived,female,10-19 years
+272,First Class,Survived,male,20-29 years
+273,First Class,Survived,female,20-29 years
+274,First Class,Survived,male,0-9 years
+275,First Class,Survived,male,40-49 years
+276,First Class,Survived,female,40-49 years
+277,First Class,did not survive,male,50-59 years
+278,First Class,Survived,female,20-29 years
+279,First Class,Survived,male,30-39 years
+280,First Class,did not survive,male,60-69 years
+281,First Class,Survived,male,50-59 years
+282,First Class,Survived,female,40-49 years
+283,First Class,Survived,female,50-59 years
+284,First Class,did not survive,male,20-29 years
+285,First Class,Survived,female,60-69 years
+286,First Class,did not survive,male,60-69 years
+287,First Class,did not survive,female,60-69 years
+288,First Class,did not survive,male,60-69 years
+289,First Class,Survived,female,40-49 years
+290,First Class,Survived,female,10-19 years
+291,First Class,did not survive,male,50-59 years
+292,First Class,Survived,female,30-39 years
+293,First Class,Survived,male,40-49 years
+294,First Class,Survived,female,20-29 years
+295,First Class,did not survive,male,40-49 years
+296,First Class,Survived,male,10-19 years
+297,First Class,Survived,female,30-39 years
+298,First Class,Survived,female,20-29 years
+299,First Class,Survived,male,30-39 years
+300,First Class,did not survive,male,40-49 years
+301,First Class,did not survive,male,60-69 years
+302,First Class,did not survive,male,40-49 years
+303,First Class,Survived,female,30-39 years
+304,First Class,did not survive,male,60-69 years
+305,First Class,Survived,female,60-69 years
+306,First Class,did not survive,male,60-69 years
+307,First Class,did not survive,male,50-59 years
+308,First Class,did not survive,male,20-29 years
+309,First Class,Survived,female,50-59 years
+310,First Class,Survived,female,30-39 years
+311,First Class,did not survive,male,50-59 years
+312,First Class,Survived,female,40-49 years
+313,First Class,did not survive,male,50-59 years
+314,First Class,did not survive,male,20-29 years
+315,First Class,Survived,female,50-59 years
+316,First Class,Survived,female,20-29 years
+317,First Class,did not survive,male,50-59 years
+318,First Class,Survived,male,20-29 years
+319,First Class,did not survive,male,20-29 years
+320,First Class,Survived,female,30-39 years
+321,First Class,Survived,male,20-29 years
+322,First Class,did not survive,male,60-69 years
+323,First Class,Survived,female,30-39 years
+324,Middle Class,did not survive,male,30-39 years
+325,Middle Class,Survived,female,20-29 years
+326,Middle Class,did not survive,male,30-39 years
+327,Middle Class,did not survive,male,10-19 years
+328,Middle Class,did not survive,male,20-29 years
+329,Middle Class,did not survive,male,30-39 years
+330,Middle Class,Survived,female,30-39 years
+331,Middle Class,did not survive,male,50-59 years
+332,Middle Class,did not survive,male,10-19 years
+333,Middle Class,did not survive,male,20-29 years
+334,Middle Class,Survived,female,30-39 years
+335,Middle Class,did not survive,male,20-29 years
+336,Middle Class,did not survive,male,50-59 years
+337,Middle Class,Survived,male,30-39 years
+338,Middle Class,Survived,female,10-19 years
+339,Middle Class,did not survive,male,20-29 years
+340,Middle Class,Survived,male,0-9 years
+341,Middle Class,Survived,female,0-9 years
+342,Middle Class,Survived,female,10-19 years
+343,Middle Class,Survived,female,30-39 years
+344,Middle Class,Survived,male,30-39 years
+345,Middle Class,Survived,female,10-19 years
+346,Middle Class,did not survive,male,20-29 years
+347,Middle Class,did not survive,male,20-29 years
+348,Middle Class,did not survive,male,40-49 years
+349,Middle Class,did not survive,male,20-29 years
+350,Middle Class,Survived,female,20-29 years
+351,Middle Class,Survived,female,10-19 years
+352,Middle Class,did not survive,male,60-69 years
+353,Middle Class,Survived,female,40-49 years
+354,Middle Class,Survived,female,20-29 years
+355,Middle Class,did not survive,male,20-29 years
+356,Middle Class,Survived,female,30-39 years
+357,Middle Class,did not survive,male,20-29 years
+358,Middle Class,did not survive,male,40-49 years
+359,Middle Class,Survived,female,40-49 years
+360,Middle Class,Survived,male,0-9 years
+361,Middle Class,Survived,male,20-29 years
+362,Middle Class,Survived,female,20-29 years
+363,Middle Class,Survived,female,30-39 years
+364,Middle Class,did not survive,male,20-29 years
+365,Middle Class,did not survive,male,10-19 years
+366,Middle Class,did not survive,female,40-49 years
+367,Middle Class,did not survive,male,50-59 years
+368,Middle Class,did not survive,male,50-59 years
+369,Middle Class,did not survive,male,30-39 years
+370,Middle Class,did not survive,female,20-29 years
+371,Middle Class,Survived,female,20-29 years
+372,Middle Class,Survived,female,40-49 years
+373,Middle Class,did not survive,male,20-29 years
+374,Middle Class,Survived,female,20-29 years
+375,Middle Class,did not survive,male,20-29 years
+376,Middle Class,did not survive,male,20-29 years
+377,Middle Class,Survived,male,20-29 years
+378,Middle Class,Survived,female,0-9 years
+379,Middle Class,did not survive,male,30-39 years
+380,Middle Class,Survived,female,30-39 years
+381,Middle Class,Survived,female,20-29 years
+382,Middle Class,did not survive,female,30-39 years
+383,Middle Class,did not survive,female,20-29 years
+384,Middle Class,did not survive,male,20-29 years
+385,Middle Class,did not survive,male,20-29 years
+386,Middle Class,Survived,male,0-9 years
+387,Middle Class,did not survive,male,10-19 years
+388,Middle Class,Survived,female,40-49 years
+389,Middle Class,Survived,female,20-29 years
+390,Middle Class,did not survive,male,30-39 years
+391,Middle Class,did not survive,male,10-19 years
+392,Middle Class,did not survive,male,20-29 years
+393,Middle Class,Survived,female,20-29 years
+394,Middle Class,did not survive,male,20-29 years
+395,Middle Class,did not survive,male,10-19 years
+396,Middle Class,Survived,female,10-19 years
+397,Middle Class,Survived,female,30-39 years
+398,Middle Class,did not survive,male,50-59 years
+399,Middle Class,Survived,male,0-9 years
+400,Middle Class,did not survive,male,40-49 years
+401,Middle Class,Survived,female,30-39 years
+402,Middle Class,Survived,female,20-29 years
+403,Middle Class,Survived,female,30-39 years
+404,Middle Class,did not survive,male,20-29 years
+405,Middle Class,did not survive,male,20-29 years
+406,Middle Class,did not survive,male,10-19 years
+407,Middle Class,did not survive,male,40-49 years
+408,Middle Class,Survived,female,20-29 years
+409,Middle Class,did not survive,male,10-19 years
+410,Middle Class,did not survive,male,30-39 years
+411,Middle Class,did not survive,male,20-29 years
+412,Middle Class,did not survive,female,30-39 years
+413,Middle Class,did not survive,male,30-39 years
+414,Middle Class,did not survive,male,30-39 years
+415,Middle Class,did not survive,male,30-39 years
+416,Middle Class,Survived,female,30-39 years
+417,Middle Class,did not survive,male,10-19 years
+418,Middle Class,did not survive,male,20-29 years
+419,Middle Class,did not survive,male,40-49 years
+420,Middle Class,did not survive,male,20-29 years
+421,Middle Class,did not survive,male,20-29 years
+422,Middle Class,did not survive,male,20-29 years
+423,Middle Class,did not survive,male,20-29 years
+424,Middle Class,did not survive,male,30-39 years
+425,Middle Class,did not survive,male,30-39 years
+426,Middle Class,did not survive,male,50-59 years
+427,Middle Class,did not survive,male,30-39 years
+428,Middle Class,Survived,male,0-9 years
+429,Middle Class,Survived,female,20-29 years
+430,Middle Class,did not survive,male,40-49 years
+431,Middle Class,Survived,female,0-9 years
+432,Middle Class,did not survive,male,20-29 years
+433,Middle Class,Survived,male,60-69 years
+434,Middle Class,did not survive,male,30-39 years
+435,Middle Class,Survived,female,0-9 years
+436,Middle Class,did not survive,male,40-49 years
+437,Middle Class,Survived,female,40-49 years
+438,Middle Class,Survived,female,20-29 years
+439,Middle Class,Survived,female,20-29 years
+440,Middle Class,did not survive,male,40-49 years
+441,Middle Class,Survived,female,40-49 years
+442,Middle Class,Survived,female,50-59 years
+443,Middle Class,did not survive,male,20-29 years
+444,Middle Class,did not survive,male,30-39 years
+445,Middle Class,did not survive,male,20-29 years
+446,Middle Class,did not survive,female,10-19 years
+447,Middle Class,Survived,female,20-29 years
+448,Middle Class,did not survive,male,20-29 years
+449,Middle Class,did not survive,male,30-39 years
+450,Middle Class,Survived,female,50-59 years
+451,Middle Class,did not survive,male,50-59 years
+452,Middle Class,did not survive,male,40-49 years
+453,Middle Class,Survived,female,20-29 years
+454,Middle Class,did not survive,male,20-29 years
+455,Middle Class,Survived,male,40-49 years
+456,Middle Class,did not survive,male,60-69 years
+457,Middle Class,did not survive,female,60-69 years
+458,Middle Class,did not survive,male,30-39 years
+459,Middle Class,Survived,female,10-19 years
+460,Middle Class,did not survive,male,40-49 years
+461,Middle Class,Survived,female,20-29 years
+462,Middle Class,did not survive,male,40-49 years
+463,Middle Class,did not survive,male,20-29 years
+464,Middle Class,did not survive,male,20-29 years
+465,Middle Class,did not survive,male,30-39 years
+466,Middle Class,Survived,female,20-29 years
+467,Middle Class,did not survive,male,30-39 years
+468,Middle Class,Survived,female,20-29 years
+469,Middle Class,did not survive,female,20-29 years
+470,Middle Class,Survived,female,20-29 years
+471,Middle Class,did not survive,male,30-39 years
+472,Middle Class,Survived,female,40-49 years
+473,Middle Class,did not survive,male,50-59 years
+474,Middle Class,did not survive,male,20-29 years
+475,Middle Class,did not survive,male,30-39 years
+476,Middle Class,did not survive,female,20-29 years
+477,Middle Class,did not survive,male,30-39 years
+478,Middle Class,did not survive,male,20-29 years
+479,Middle Class,Survived,female,0-9 years
+480,Middle Class,Survived,female,0-9 years
+481,Middle Class,did not survive,male,20-29 years
+482,Middle Class,Survived,female,20-29 years
+483,Middle Class,Survived,female,10-19 years
+484,Middle Class,Survived,female,20-29 years
+485,Middle Class,Survived,female,30-39 years
+486,Middle Class,did not survive,male,30-39 years
+487,Middle Class,did not survive,male,20-29 years
+488,Middle Class,did not survive,male,60-69 years
+489,Middle Class,did not survive,male,50-59 years
+490,Middle Class,Survived,female,40-49 years
+491,Middle Class,did not survive,female,50-59 years
+492,Middle Class,did not survive,male,20-29 years
+493,Middle Class,Survived,male,0-9 years
+494,Middle Class,did not survive,male,30-39 years
+495,Middle Class,Survived,female,20-29 years
+496,Middle Class,did not survive,male,20-29 years
+497,Middle Class,did not survive,male,30-39 years
+498,Middle Class,did not survive,male,40-49 years
+499,Middle Class,did not survive,male,30-39 years
+500,Middle Class,did not survive,male,30-39 years
+501,Middle Class,did not survive,male,40-49 years
+502,Middle Class,Survived,female,10-19 years
+503,Middle Class,Survived,female,40-49 years
+504,Middle Class,Survived,male,10-19 years
+505,Middle Class,did not survive,male,30-39 years
+506,Middle Class,did not survive,male,40-49 years
+507,Middle Class,did not survive,male,70-79 years
+508,Middle Class,did not survive,male,20-29 years
+509,Middle Class,did not survive,male,50-59 years
+510,Middle Class,did not survive,male,30-39 years
+511,Middle Class,did not survive,male,10-19 years
+512,Middle Class,did not survive,male,60-69 years
+513,Middle Class,did not survive,male,30-39 years
+514,Middle Class,Survived,female,10-19 years
+515,Middle Class,Survived,male,0-9 years
+516,Middle Class,Survived,male,0-9 years
+517,Middle Class,did not survive,male,30-39 years
+518,Middle Class,did not survive,male,20-29 years
+519,Middle Class,did not survive,male,10-19 years
+520,Middle Class,did not survive,male,20-29 years
+521,Middle Class,Survived,male,20-29 years
+522,Middle Class,Survived,female,20-29 years
+523,Middle Class,did not survive,male,30-39 years
+524,Middle Class,Survived,male,20-29 years
+525,Middle Class,Survived,male,20-29 years
+526,Middle Class,did not survive,male,20-29 years
+527,Middle Class,Survived,male,20-29 years
+528,Middle Class,did not survive,male,20-29 years
+529,Middle Class,did not survive,male,20-29 years
+530,Middle Class,Survived,female,50-59 years
+531,Middle Class,did not survive,male,10-19 years
+532,Middle Class,did not survive,male,20-29 years
+533,Middle Class,did not survive,male,40-49 years
+534,Middle Class,Survived,female,20-29 years
+535,Middle Class,Survived,female,10-19 years
+536,Middle Class,did not survive,male,40-49 years
+537,Middle Class,Survived,female,30-39 years
+538,Middle Class,did not survive,male,30-39 years
+539,Middle Class,Survived,male,30-39 years
+540,Middle Class,did not survive,male,20-29 years
+541,Middle Class,Survived,female,0-9 years
+542,Middle Class,Survived,female,0-9 years
+543,Middle Class,Survived,female,30-39 years
+544,Middle Class,did not survive,male,30-39 years
+545,Middle Class,did not survive,male,30-39 years
+546,Middle Class,Survived,female,30-39 years
+547,Middle Class,Survived,female,20-29 years
+548,Middle Class,did not survive,male,20-29 years
+549,Middle Class,Survived,male,0-9 years
+550,Middle Class,Survived,male,0-9 years
+551,Middle Class,Survived,female,20-29 years
+552,Middle Class,Survived,female,50-59 years
+553,Middle Class,did not survive,male,10-19 years
+554,Middle Class,Survived,female,20-29 years
+555,Middle Class,did not survive,male,20-29 years
+556,Middle Class,did not survive,male,20-29 years
+557,Middle Class,did not survive,male,20-29 years
+558,Middle Class,Survived,female,20-29 years
+559,Middle Class,Survived,female,10-19 years
+560,Middle Class,Survived,female,20-29 years
+561,Middle Class,Survived,female,30-39 years
+562,Middle Class,did not survive,male,50-59 years
+563,Middle Class,Survived,female,30-39 years
+564,Middle Class,did not survive,male,30-39 years
+565,Middle Class,Survived,female,40-49 years
+566,Middle Class,did not survive,male,20-29 years
+567,Middle Class,did not survive,male,40-49 years
+568,Middle Class,did not survive,male,20-29 years
+569,Middle Class,did not survive,male,10-19 years
+570,Middle Class,did not survive,male,10-19 years
+571,Middle Class,Survived,female,50-59 years
+572,Middle Class,did not survive,male,20-29 years
+573,Middle Class,Survived,female,20-29 years
+574,Middle Class,Survived,female,20-29 years
+575,Middle Class,did not survive,male,20-29 years
+576,Middle Class,did not survive,female,20-29 years
+577,Middle Class,did not survive,male,40-49 years
+578,Middle Class,Survived,female,30-39 years
+579,Middle Class,did not survive,male,30-39 years
+580,Middle Class,did not survive,male,20-29 years
+581,Middle Class,Survived,female,30-39 years
+582,Middle Class,did not survive,male,20-29 years
+583,Middle Class,Survived,female,10-19 years
+584,Middle Class,Survived,female,40-49 years
+585,Middle Class,Survived,female,30-39 years
+586,Middle Class,did not survive,male,20-29 years
+587,Middle Class,Survived,female,20-29 years
+588,Middle Class,Survived,male,0-9 years
+589,Middle Class,Survived,female,0-9 years
+590,Middle Class,Survived,female,20-29 years
+591,Middle Class,Survived,female,0-9 years
+592,Middle Class,Survived,female,0-9 years
+593,Middle Class,did not survive,male,30-39 years
+594,Middle Class,Survived,female,30-39 years
+595,Middle Class,did not survive,male,60-69 years
+596,Middle Class,did not survive,male,20-29 years
+597,Middle Class,Survived,male,30-39 years
+598,Middle Class,Survived,male,20-29 years
+599,Middle Class,Survived,female,20-29 years
+600,Middle Class,did not survive,female,20-29 years
+601,Low Class,did not survive,male,40-49 years
+602,Low Class,did not survive,male,10-19 years
+603,Low Class,did not survive,male,10-19 years
+604,Low Class,Survived,female,30-39 years
+605,Low Class,Survived,female,10-19 years
+606,Low Class,Survived,male,20-29 years
+607,Low Class,Survived,male,20-29 years
+608,Low Class,Survived,female,10-19 years
+609,Low Class,did not survive,male,30-39 years
+610,Low Class,did not survive,male,20-29 years
+611,Low Class,did not survive,female,40-49 years
+612,Low Class,Survived,male,0-9 years
+613,Low Class,Survived,female,10-19 years
+614,Low Class,Survived,male,20-29 years
+615,Low Class,did not survive,male,20-29 years
+616,Low Class,did not survive,male,20-29 years
+617,Low Class,did not survive,male,20-29 years
+618,Low Class,did not survive,male,20-29 years
+619,Low Class,did not survive,male,30-39 years
+620,Low Class,did not survive,male,10-19 years
+621,Low Class,did not survive,male,30-39 years
+622,Low Class,Survived,female,10-19 years
+623,Low Class,did not survive,male,0-9 years
+624,Low Class,did not survive,female,0-9 years
+625,Low Class,did not survive,female,0-9 years
+626,Low Class,Survived,female,10-19 years
+627,Low Class,did not survive,female,30-39 years
+628,Low Class,did not survive,female,0-9 years
+629,Low Class,did not survive,female,10-19 years
+630,Low Class,did not survive,male,30-39 years
+631,Low Class,Survived,male,20-29 years
+632,Low Class,did not survive,male,20-29 years
+633,Low Class,did not survive,female,30-39 years
+634,Low Class,did not survive,male,20-29 years
+635,Low Class,did not survive,male,20-29 years
+636,Low Class,did not survive,male,20-29 years
+637,Low Class,did not survive,female,10-19 years
+638,Low Class,did not survive,male,20-29 years
+639,Low Class,did not survive,male,30-39 years
+640,Low Class,did not survive,male,0-9 years
+641,Low Class,did not survive,male,0-9 years
+642,Low Class,Survived,male,0-9 years
+643,Low Class,did not survive,male,10-19 years
+644,Low Class,Survived,female,0-9 years
+645,Low Class,did not survive,male,40-49 years
+646,Low Class,Survived,male,20-29 years
+647,Low Class,Survived,female,30-39 years
+648,Low Class,Survived,female,40-49 years
+649,Low Class,did not survive,male,20-29 years
+650,Low Class,did not survive,male,20-29 years
+651,Low Class,did not survive,female,10-19 years
+652,Low Class,did not survive,male,30-39 years
+653,Low Class,did not survive,male,20-29 years
+654,Low Class,Survived,female,10-19 years
+655,Low Class,did not survive,male,20-29 years
+656,Low Class,did not survive,male,30-39 years
+657,Low Class,Survived,female,30-39 years
+658,Low Class,Survived,female,0-9 years
+659,Low Class,Survived,female,0-9 years
+660,Low Class,Survived,female,0-9 years
+661,Low Class,Survived,female,20-29 years
+662,Low Class,Survived,female,10-19 years
+663,Low Class,did not survive,male,40-49 years
+664,Low Class,did not survive,male,20-29 years
+665,Low Class,Survived,male,20-29 years
+666,Low Class,did not survive,female,10-19 years
+667,Low Class,did not survive,female,40-49 years
+668,Low Class,did not survive,female,20-29 years
+669,Low Class,did not survive,male,20-29 years
+670,Low Class,did not survive,male,10-19 years
+671,Low Class,did not survive,male,20-29 years
+672,Low Class,did not survive,male,20-29 years
+673,Low Class,did not survive,male,20-29 years
+674,Low Class,did not survive,male,20-29 years
+675,Low Class,Survived,male,30-39 years
+676,Low Class,did not survive,male,20-29 years
+677,Low Class,did not survive,male,10-19 years
+678,Low Class,did not survive,male,20-29 years
+679,Low Class,did not survive,male,0-9 years
+680,Low Class,did not survive,female,0-9 years
+681,Low Class,did not survive,male,20-29 years
+682,Low Class,did not survive,female,20-29 years
+683,Low Class,did not survive,female,20-29 years
+684,Low Class,did not survive,male,40-49 years
+685,Low Class,did not survive,female,30-39 years
+686,Low Class,did not survive,male,20-29 years
+687,Low Class,Survived,female,20-29 years
+688,Low Class,did not survive,female,20-29 years
+689,Low Class,did not survive,male,20-29 years
+690,Low Class,did not survive,male,20-29 years
+691,Low Class,did not survive,male,20-29 years
+692,Low Class,did not survive,male,30-39 years
+693,Low Class,did not survive,female,10-19 years
+694,Low Class,Survived,male,20-29 years
+695,Low Class,did not survive,male,10-19 years
+696,Low Class,did not survive,female,10-19 years
+697,Low Class,did not survive,female,20-29 years
+698,Low Class,did not survive,female,30-39 years
+699,Low Class,did not survive,male,10-19 years
+700,Low Class,did not survive,male,30-39 years
+701,Low Class,did not survive,male,10-19 years
+702,Low Class,did not survive,male,10-19 years
+703,Low Class,did not survive,female,20-29 years
+704,Low Class,did not survive,male,20-29 years
+705,Low Class,did not survive,male,20-29 years
+706,Low Class,did not survive,male,20-29 years
+707,Low Class,did not survive,female,20-29 years
+708,Low Class,did not survive,male,20-29 years
+709,Low Class,did not survive,male,20-29 years
+710,Low Class,Survived,female,10-19 years
+711,Low Class,did not survive,female,30-39 years
+712,Low Class,did not survive,male,20-29 years
+713,Low Class,did not survive,male,20-29 years
+714,Low Class,did not survive,male,20-29 years
+715,Low Class,Survived,male,30-39 years
+716,Low Class,did not survive,male,20-29 years
+717,Low Class,did not survive,male,20-29 years
+718,Low Class,did not survive,male,10-19 years
+719,Low Class,did not survive,male,20-29 years
+720,Low Class,Survived,male,10-19 years
+721,Low Class,did not survive,male,20-29 years
+722,Low Class,did not survive,male,30-39 years
+723,Low Class,did not survive,male,20-29 years
+724,Low Class,did not survive,male,30-39 years
+725,Low Class,did not survive,male,30-39 years
+726,Low Class,Survived,female,20-29 years
+727,Low Class,did not survive,female,30-39 years
+728,Low Class,did not survive,male,70-79 years
+729,Low Class,did not survive,male,40-49 years
+730,Low Class,did not survive,male,30-39 years
+731,Low Class,did not survive,male,20-29 years
+732,Low Class,did not survive,male,10-19 years
+733,Low Class,did not survive,male,30-39 years
+734,Low Class,Survived,male,0-9 years
+735,Low Class,Survived,male,0-9 years
+736,Low Class,Survived,female,30-39 years
+737,Low Class,did not survive,male,50-59 years
+738,Low Class,did not survive,male,10-19 years
+739,Low Class,Survived,female,10-19 years
+740,Low Class,did not survive,male,40-49 years
+741,Low Class,did not survive,male,10-19 years
+742,Low Class,did not survive,male,20-29 years
+743,Low Class,Survived,male,40-49 years
+744,Low Class,did not survive,female,20-29 years
+745,Low Class,did not survive,male,10-19 years
+746,Low Class,Survived,female,30-39 years
+747,Low Class,Survived,male,20-29 years
+748,Low Class,did not survive,male,0-9 years
+749,Low Class,did not survive,male,30-39 years
+750,Low Class,did not survive,female,20-29 years
+751,Low Class,did not survive,male,20-29 years
+752,Low Class,did not survive,male,20-29 years
+753,Low Class,did not survive,male,20-29 years
+754,Low Class,did not survive,male,20-29 years
+755,Low Class,did not survive,male,20-29 years
+756,Low Class,did not survive,male,10-19 years
+757,Low Class,did not survive,male,20-29 years
+758,Low Class,Survived,female,20-29 years
+759,Low Class,Survived,male,30-39 years
+760,Low Class,Survived,female,30-39 years
+761,Low Class,Survived,male,30-39 years
+762,Low Class,did not survive,male,10-19 years
+763,Low Class,Survived,male,0-9 years
+764,Low Class,Survived,female,0-9 years
+765,Low Class,did not survive,male,20-29 years
+766,Low Class,Survived,female,30-39 years
+767,Low Class,did not survive,male,20-29 years
+768,Low Class,did not survive,male,20-29 years
+769,Low Class,did not survive,male,20-29 years
+770,Low Class,did not survive,male,20-29 years
+771,Low Class,did not survive,male,30-39 years
+772,Low Class,Survived,female,10-19 years
+773,Low Class,did not survive,male,10-19 years
+774,Low Class,did not survive,male,40-49 years
+775,Low Class,did not survive,male,40-49 years
+776,Low Class,did not survive,male,20-29 years
+777,Low Class,did not survive,male,30-39 years
+778,Low Class,Survived,male,10-19 years
+779,Low Class,Survived,female,30-39 years
+780,Low Class,did not survive,female,20-29 years
+781,Low Class,Survived,female,20-29 years
+782,Low Class,did not survive,male,30-39 years
+783,Low Class,did not survive,male,60-69 years
+784,Low Class,Survived,male,20-29 years
+785,Low Class,did not survive,male,20-29 years
+786,Low Class,Survived,female,20-29 years
+787,Low Class,did not survive,male,10-19 years
+788,Low Class,did not survive,male,10-19 years
+789,Low Class,did not survive,male,40-49 years
+790,Low Class,did not survive,male,20-29 years
+791,Low Class,did not survive,male,30-39 years
+792,Low Class,did not survive,male,10-19 years
+793,Low Class,did not survive,male,10-19 years
+794,Low Class,did not survive,male,40-49 years
+795,Low Class,Survived,female,0-9 years
+796,Low Class,did not survive,male,20-29 years
+797,Low Class,did not survive,male,40-49 years
+798,Low Class,did not survive,male,40-49 years
+799,Low Class,Survived,male,20-29 years
+800,Low Class,did not survive,male,10-19 years
+801,Low Class,did not survive,female,20-29 years
+802,Low Class,did not survive,male,20-29 years
+803,Low Class,did not survive,male,20-29 years
+804,Low Class,did not survive,male,20-29 years
+805,Low Class,did not survive,male,20-29 years
+806,Low Class,Survived,male,20-29 years
+807,Low Class,did not survive,female,20-29 years
+808,Low Class,did not survive,female,0-9 years
+809,Low Class,did not survive,male,20-29 years
+810,Low Class,did not survive,male,10-19 years
+811,Low Class,did not survive,male,10-19 years
+812,Low Class,did not survive,female,40-49 years
+813,Low Class,did not survive,male,20-29 years
+814,Low Class,did not survive,male,20-29 years
+815,Low Class,did not survive,male,20-29 years
+816,Low Class,did not survive,male,20-29 years
+817,Low Class,did not survive,male,20-29 years
+818,Low Class,did not survive,male,20-29 years
+819,Low Class,Survived,female,10-19 years
+820,Low Class,Survived,female,20-29 years
+821,Low Class,Survived,male,0-9 years
+822,Low Class,did not survive,male,30-39 years
+823,Low Class,did not survive,male,40-49 years
+824,Low Class,Survived,female,30-39 years
+825,Low Class,did not survive,male,30-39 years
+826,Low Class,did not survive,male,0-9 years
+827,Low Class,did not survive,male,0-9 years
+828,Low Class,did not survive,male,10-19 years
+829,Low Class,did not survive,female,10-19 years
+830,Low Class,did not survive,female,10-19 years
+831,Low Class,did not survive,male,10-19 years
+832,Low Class,did not survive,male,40-49 years
+833,Low Class,did not survive,female,40-49 years
+834,Low Class,did not survive,male,50-59 years
+835,Low Class,did not survive,male,30-39 years
+836,Low Class,did not survive,male,20-29 years
+837,Low Class,did not survive,male,20-29 years
+838,Low Class,did not survive,male,30-39 years
+839,Low Class,did not survive,male,20-29 years
+840,Low Class,did not survive,male,10-19 years
+841,Low Class,did not survive,female,20-29 years
+842,Low Class,did not survive,female,10-19 years
+843,Low Class,did not survive,male,20-29 years
+844,Low Class,did not survive,male,20-29 years
+845,Low Class,did not survive,male,20-29 years
+846,Low Class,Survived,female,20-29 years
+847,Low Class,did not survive,male,20-29 years
+848,Low Class,did not survive,male,20-29 years
+849,Low Class,did not survive,male,40-49 years
+850,Low Class,did not survive,male,20-29 years
+851,Low Class,did not survive,male,20-29 years
+852,Low Class,Survived,female,40-49 years
+853,Low Class,did not survive,female,20-29 years
+854,Low Class,did not survive,male,20-29 years
+855,Low Class,did not survive,male,20-29 years
+856,Low Class,did not survive,male,10-19 years
+857,Low Class,Survived,female,20-29 years
+858,Low Class,Survived,male,20-29 years
+859,Low Class,Survived,male,20-29 years
+860,Low Class,did not survive,female,10-19 years
+861,Low Class,Survived,female,20-29 years
+862,Low Class,did not survive,female,20-29 years
+863,Low Class,Survived,female,20-29 years
+864,Low Class,did not survive,male,20-29 years
+865,Low Class,did not survive,female,20-29 years
+866,Low Class,did not survive,female,20-29 years
+867,Low Class,Survived,female,0-9 years
+868,Low Class,Survived,female,20-29 years
+869,Low Class,did not survive,male,40-49 years
+870,Low Class,did not survive,male,20-29 years
+871,Low Class,Survived,female,20-29 years
+872,Low Class,did not survive,male,20-29 years
+873,Low Class,Survived,female,20-29 years
+874,Low Class,did not survive,male,40-49 years
+875,Low Class,Survived,male,20-29 years
+876,Low Class,did not survive,male,30-39 years
+877,Low Class,did not survive,male,20-29 years
+878,Low Class,did not survive,female,20-29 years
+879,Low Class,did not survive,female,20-29 years
+880,Low Class,did not survive,male,20-29 years
+881,Low Class,Survived,male,20-29 years
+882,Low Class,Survived,male,20-29 years
+883,Low Class,did not survive,male,20-29 years
+884,Low Class,did not survive,male,20-29 years
+885,Low Class,did not survive,male,40-49 years
+886,Low Class,did not survive,male,10-19 years
+887,Low Class,Survived,female,20-29 years
+888,Low Class,Survived,male,20-29 years
+889,Low Class,did not survive,male,30-39 years
+890,Low Class,Survived,male,20-29 years
+891,Low Class,did not survive,male,20-29 years
+892,Low Class,did not survive,male,30-39 years
+893,Low Class,did not survive,male,30-39 years
+894,Low Class,did not survive,male,20-29 years
+895,Low Class,Survived,male,0-9 years
+896,Low Class,Survived,female,0-9 years
+897,Low Class,did not survive,male,40-49 years
+898,Low Class,did not survive,male,30-39 years
+899,Low Class,did not survive,male,10-19 years
+900,Low Class,Survived,female,20-29 years
+901,Low Class,did not survive,male,20-29 years
+902,Low Class,did not survive,female,20-29 years
+903,Low Class,did not survive,male,20-29 years
+904,Low Class,did not survive,female,20-29 years
+905,Low Class,did not survive,male,20-29 years
+906,Low Class,Survived,male,30-39 years
+907,Low Class,did not survive,male,20-29 years
+908,Low Class,did not survive,female,20-29 years
+909,Low Class,did not survive,female,20-29 years
+910,Low Class,Survived,male,30-39 years
+911,Low Class,did not survive,male,10-19 years
+912,Low Class,did not survive,male,20-29 years
+913,Low Class,did not survive,male,30-39 years
+914,Low Class,Survived,male,20-29 years
+915,Low Class,did not survive,male,30-39 years
+916,Low Class,did not survive,male,20-29 years
+917,Low Class,Survived,female,0-9 years
+918,Low Class,Survived,male,30-39 years
+919,Low Class,did not survive,male,20-29 years
+920,Low Class,did not survive,male,10-19 years
+921,Low Class,did not survive,male,20-29 years
+922,Low Class,did not survive,male,20-29 years
+923,Low Class,Survived,female,20-29 years
+924,Low Class,Survived,female,20-29 years
+925,Low Class,did not survive,male,30-39 years
+926,Low Class,did not survive,male,40-49 years
+927,Low Class,Survived,male,20-29 years
+928,Low Class,did not survive,male,20-29 years
+929,Low Class,did not survive,female,20-29 years
+930,Low Class,did not survive,male,20-29 years
+931,Low Class,did not survive,male,20-29 years
+932,Low Class,did not survive,male,20-29 years
+933,Low Class,did not survive,female,20-29 years
+934,Low Class,did not survive,male,20-29 years
+935,Low Class,Survived,female,0-9 years
+936,Low Class,Survived,male,20-29 years
+937,Low Class,Survived,female,20-29 years
+938,Low Class,did not survive,female,0-9 years
+939,Low Class,did not survive,male,10-19 years
+940,Low Class,did not survive,female,30-39 years
+941,Low Class,did not survive,male,20-29 years
+942,Low Class,Survived,male,20-29 years
+943,Low Class,did not survive,male,20-29 years
+944,Low Class,did not survive,female,30-39 years
+945,Low Class,did not survive,male,20-29 years
+946,Low Class,Survived,male,20-29 years
+947,Low Class,did not survive,male,20-29 years
+948,Low Class,Survived,female,20-29 years
+949,Low Class,did not survive,male,20-29 years
+950,Low Class,Survived,male,20-29 years
+951,Low Class,did not survive,male,20-29 years
+952,Low Class,did not survive,male,20-29 years
+953,Low Class,did not survive,male,20-29 years
+954,Low Class,Survived,male,20-29 years
+955,Low Class,did not survive,male,20-29 years
+956,Low Class,did not survive,female,20-29 years
+957,Low Class,did not survive,female,20-29 years
+958,Low Class,did not survive,female,20-29 years
+959,Low Class,did not survive,female,20-29 years
+960,Low Class,did not survive,male,30-39 years
+961,Low Class,did not survive,male,30-39 years
+962,Low Class,did not survive,female,20-29 years
+963,Low Class,did not survive,male,20-29 years
+964,Low Class,did not survive,male,30-39 years
+965,Low Class,did not survive,male,30-39 years
+966,Low Class,did not survive,male,20-29 years
+967,Low Class,did not survive,female,20-29 years
+968,Low Class,did not survive,female,40-49 years
+969,Low Class,did not survive,male,30-39 years
+970,Low Class,did not survive,female,30-39 years
+971,Low Class,Survived,male,20-29 years
+972,Low Class,did not survive,male,20-29 years
+973,Low Class,did not survive,male,20-29 years
+974,Low Class,did not survive,male,20-29 years
+975,Low Class,did not survive,male,30-39 years
+976,Low Class,did not survive,female,20-29 years
+977,Low Class,did not survive,male,20-29 years
+978,Low Class,did not survive,male,20-29 years
+979,Low Class,Survived,male,20-29 years
+980,Low Class,did not survive,male,50-59 years
+981,Low Class,Survived,female,20-29 years
+982,Low Class,Survived,male,30-39 years
+983,Low Class,did not survive,male,20-29 years
+984,Low Class,did not survive,male,20-29 years
+985,Low Class,Survived,female,20-29 years
+986,Low Class,Survived,male,20-29 years
+987,Low Class,did not survive,male,20-29 years
+988,Low Class,did not survive,female,20-29 years
+989,Low Class,did not survive,male,20-29 years
+990,Low Class,did not survive,male,20-29 years
+991,Low Class,did not survive,male,20-29 years
+992,Low Class,Survived,male,20-29 years
+993,Low Class,did not survive,female,30-39 years
+994,Low Class,Survived,female,20-29 years
+995,Low Class,did not survive,male,20-29 years
+996,Low Class,did not survive,male,30-39 years
+997,Low Class,did not survive,male,30-39 years
+998,Low Class,Survived,female,20-29 years
+999,Low Class,did not survive,male,20-29 years
+1000,Low Class,Survived,female,20-29 years
+1001,Low Class,Survived,male,20-29 years
+1002,Low Class,Survived,female,20-29 years
+1003,Low Class,Survived,female,20-29 years
+1004,Low Class,Survived,male,20-29 years
+1005,Low Class,Survived,female,20-29 years
+1006,Low Class,did not survive,male,20-29 years
+1007,Low Class,Survived,female,20-29 years
+1008,Low Class,Survived,female,10-19 years
+1009,Low Class,did not survive,female,30-39 years
+1010,Low Class,did not survive,male,20-29 years
+1011,Low Class,did not survive,male,20-29 years
+1012,Low Class,did not survive,female,10-19 years
+1013,Low Class,did not survive,female,20-29 years
+1014,Low Class,did not survive,female,20-29 years
+1015,Low Class,did not survive,female,20-29 years
+1016,Low Class,did not survive,male,50-59 years
+1017,Low Class,did not survive,male,20-29 years
+1018,Low Class,Survived,male,20-29 years
+1019,Low Class,did not survive,male,20-29 years
+1020,Low Class,did not survive,male,20-29 years
+1021,Low Class,did not survive,male,20-29 years
+1022,Low Class,did not survive,male,20-29 years
+1023,Low Class,did not survive,male,20-29 years
+1024,Low Class,Survived,female,20-29 years
+1025,Low Class,did not survive,male,20-29 years
+1026,Low Class,Survived,male,0-9 years
+1027,Low Class,Survived,female,20-29 years
+1028,Low Class,did not survive,male,20-29 years
+1029,Low Class,Survived,female,20-29 years
+1030,Low Class,did not survive,male,20-29 years
+1031,Low Class,did not survive,male,20-29 years
+1032,Low Class,did not survive,male,30-39 years
+1033,Low Class,did not survive,male,20-29 years
+1034,Low Class,Survived,male,20-29 years
+1035,Low Class,Survived,male,20-29 years
+1036,Low Class,Survived,male,20-29 years
+1037,Low Class,Survived,female,20-29 years
+1038,Low Class,Survived,female,20-29 years
+1039,Low Class,did not survive,male,20-29 years
+1040,Low Class,Survived,female,20-29 years
+1041,Low Class,Survived,female,20-29 years
+1042,Low Class,did not survive,male,20-29 years
+1043,Low Class,Survived,female,20-29 years
+1044,Low Class,Survived,female,20-29 years
+1045,Low Class,Survived,female,20-29 years
+1046,Low Class,did not survive,male,10-19 years
+1047,Low Class,did not survive,male,20-29 years
+1048,Low Class,Survived,female,10-19 years
+1049,Low Class,Survived,female,0-9 years
+1050,Low Class,Survived,male,20-29 years
+1051,Low Class,Survived,female,10-19 years
+1052,Low Class,did not survive,male,30-39 years
+1053,Low Class,did not survive,male,20-29 years
+1054,Low Class,did not survive,male,20-29 years
+1055,Low Class,did not survive,female,20-29 years
+1056,Low Class,did not survive,male,20-29 years
+1057,Low Class,Survived,male,10-19 years
+1058,Low Class,Survived,female,10-19 years
+1059,Low Class,did not survive,female,20-29 years
+1060,Low Class,did not survive,male,20-29 years
+1061,Low Class,Survived,female,10-19 years
+1062,Low Class,Survived,female,20-29 years
+1063,Low Class,did not survive,male,20-29 years
+1064,Low Class,did not survive,male,40-49 years
+1065,Low Class,Survived,male,30-39 years
+1066,Low Class,did not survive,male,20-29 years
+1067,Low Class,did not survive,male,20-29 years
+1068,Low Class,Survived,female,20-29 years
+1069,Low Class,did not survive,male,60-69 years
+1070,Low Class,did not survive,male,20-29 years
+1071,Low Class,did not survive,male,20-29 years
+1072,Low Class,Survived,female,20-29 years
+1073,Low Class,did not survive,male,20-29 years
+1074,Low Class,did not survive,male,20-29 years
+1075,Low Class,did not survive,male,20-29 years
+1076,Low Class,did not survive,male,20-29 years
+1077,Low Class,did not survive,female,20-29 years
+1078,Low Class,Survived,female,20-29 years
+1079,Low Class,Survived,female,20-29 years
+1080,Low Class,Survived,female,20-29 years
+1081,Low Class,Survived,male,20-29 years
+1082,Low Class,Survived,female,20-29 years
+1083,Low Class,Survived,male,0-9 years
+1084,Low Class,did not survive,male,20-29 years
+1085,Low Class,did not survive,male,40-49 years
+1086,Low Class,did not survive,male,20-29 years
+1087,Low Class,did not survive,female,30-39 years
+1088,Low Class,did not survive,male,20-29 years
+1089,Low Class,Survived,male,30-39 years
+1090,Low Class,did not survive,male,20-29 years
+1091,Low Class,did not survive,female,20-29 years
+1092,Low Class,did not survive,female,20-29 years
+1093,Low Class,did not survive,male,20-29 years
+1094,Low Class,did not survive,male,10-19 years
+1095,Low Class,Survived,female,30-39 years
+1096,Low Class,did not survive,female,20-29 years
+1097,Low Class,did not survive,male,0-9 years
+1098,Low Class,did not survive,male,0-9 years
+1099,Low Class,did not survive,female,0-9 years
+1100,Low Class,did not survive,female,0-9 years
+1101,Low Class,did not survive,female,20-29 years
+1102,Low Class,did not survive,male,0-9 years
+1103,Low Class,did not survive,male,0-9 years
+1104,Low Class,did not survive,male,0-9 years
+1105,Low Class,did not survive,male,10-19 years
+1106,Low Class,did not survive,male,10-19 years
+1107,Low Class,did not survive,female,40-49 years
+1108,Low Class,did not survive,male,20-29 years
+1109,Low Class,did not survive,male,10-19 years
+1110,Low Class,did not survive,male,20-29 years
+1111,Low Class,did not survive,male,30-39 years
+1112,Low Class,did not survive,male,0-9 years
+1113,Low Class,did not survive,female,0-9 years
+1114,Low Class,did not survive,female,20-29 years
+1115,Low Class,did not survive,male,20-29 years
+1116,Low Class,did not survive,male,20-29 years
+1117,Low Class,did not survive,male,20-29 years
+1118,Low Class,did not survive,male,20-29 years
+1119,Low Class,did not survive,male,20-29 years
+1120,Low Class,did not survive,male,20-29 years
+1121,Low Class,Survived,male,20-29 years
+1122,Low Class,Survived,male,20-29 years
+1123,Low Class,Survived,female,20-29 years
+1124,Low Class,Survived,female,20-29 years
+1125,Low Class,did not survive,female,20-29 years
+1126,Low Class,did not survive,male,20-29 years
+1127,Low Class,did not survive,female,20-29 years
+1128,Low Class,did not survive,male,10-19 years
+1129,Low Class,did not survive,male,20-29 years
+1130,Low Class,did not survive,male,20-29 years
+1131,Low Class,did not survive,female,10-19 years
+1132,Low Class,Survived,male,30-39 years
+1133,Low Class,did not survive,male,20-29 years
+1134,Low Class,did not survive,male,10-19 years
+1135,Low Class,did not survive,male,20-29 years
+1136,Low Class,did not survive,male,20-29 years
+1137,Low Class,did not survive,female,20-29 years
+1138,Low Class,did not survive,male,20-29 years
+1139,Low Class,did not survive,male,20-29 years
+1140,Low Class,did not survive,male,30-39 years
+1141,Low Class,did not survive,male,20-29 years
+1142,Low Class,did not survive,male,10-19 years
+1143,Low Class,did not survive,male,0-9 years
+1144,Low Class,did not survive,male,0-9 years
+1145,Low Class,did not survive,male,0-9 years
+1146,Low Class,did not survive,male,0-9 years
+1147,Low Class,did not survive,female,30-39 years
+1148,Low Class,did not survive,female,20-29 years
+1149,Low Class,did not survive,male,30-39 years
+1150,Low Class,Survived,female,20-29 years
+1151,Low Class,did not survive,male,20-29 years
+1152,Low Class,did not survive,female,20-29 years
+1153,Low Class,did not survive,male,50-59 years
+1154,Low Class,did not survive,female,40-49 years
+1155,Low Class,did not survive,male,20-29 years
+1156,Low Class,did not survive,male,20-29 years
+1157,Low Class,did not survive,female,0-9 years
+1158,Low Class,did not survive,male,10-19 years
+1159,Low Class,did not survive,female,40-49 years
+1160,Low Class,Survived,female,20-29 years
+1161,Low Class,did not survive,male,50-59 years
+1162,Low Class,did not survive,male,10-19 years
+1163,Low Class,Survived,male,20-29 years
+1164,Low Class,did not survive,male,20-29 years
+1165,Low Class,did not survive,male,20-29 years
+1166,Low Class,did not survive,male,20-29 years
+1167,Low Class,did not survive,male,20-29 years
+1168,Low Class,did not survive,male,20-29 years
+1169,Low Class,did not survive,male,20-29 years
+1170,Low Class,did not survive,male,30-39 years
+1171,Low Class,did not survive,male,20-29 years
+1172,Low Class,did not survive,male,10-19 years
+1173,Low Class,did not survive,female,20-29 years
+1174,Low Class,did not survive,female,20-29 years
+1175,Low Class,did not survive,female,20-29 years
+1176,Low Class,did not survive,female,20-29 years
+1177,Low Class,did not survive,male,20-29 years
+1178,Low Class,did not survive,male,20-29 years
+1179,Low Class,did not survive,male,20-29 years
+1180,Low Class,did not survive,male,20-29 years
+1181,Low Class,did not survive,female,20-29 years
+1182,Low Class,did not survive,male,20-29 years
+1183,Low Class,Survived,female,20-29 years
+1184,Low Class,did not survive,male,30-39 years
+1185,Low Class,did not survive,male,20-29 years
+1186,Low Class,did not survive,male,20-29 years
+1187,Low Class,did not survive,male,20-29 years
+1188,Low Class,Survived,female,0-9 years
+1189,Low Class,Survived,female,20-29 years
+1190,Low Class,Survived,female,0-9 years
+1191,Low Class,Survived,male,20-29 years
+1192,Low Class,did not survive,male,20-29 years
+1193,Low Class,did not survive,male,20-29 years
+1194,Low Class,did not survive,male,20-29 years
+1195,Low Class,did not survive,male,20-29 years
+1196,Low Class,did not survive,male,20-29 years
+1197,Low Class,Survived,male,20-29 years
+1198,Low Class,did not survive,male,20-29 years
+1199,Low Class,Survived,female,20-29 years
+1200,Low Class,did not survive,male,20-29 years
+1201,Low Class,did not survive,male,20-29 years
+1202,Low Class,did not survive,male,20-29 years
+1203,Low Class,did not survive,male,20-29 years
+1204,Low Class,did not survive,male,40-49 years
+1205,Low Class,did not survive,male,20-29 years
+1206,Low Class,Survived,female,10-19 years
+1207,Low Class,did not survive,male,0-9 years
+1208,Low Class,did not survive,male,10-19 years
+1209,Low Class,did not survive,female,0-9 years
+1210,Low Class,did not survive,female,0-9 years
+1211,Low Class,did not survive,male,40-49 years
+1212,Low Class,did not survive,female,40-49 years
+1213,Low Class,did not survive,male,20-29 years
+1214,Low Class,did not survive,male,20-29 years
+1215,Low Class,did not survive,male,20-29 years
+1216,Low Class,did not survive,male,20-29 years
+1217,Low Class,Survived,female,20-29 years
+1218,Low Class,did not survive,male,10-19 years
+1219,Low Class,did not survive,male,30-39 years
+1220,Low Class,did not survive,male,20-29 years
+1221,Low Class,did not survive,male,30-39 years
+1222,Low Class,did not survive,male,20-29 years
+1223,Low Class,did not survive,male,30-39 years
+1224,Low Class,Survived,female,20-29 years
+1225,Low Class,did not survive,male,20-29 years
+1226,Low Class,did not survive,male,60-69 years
+1227,Low Class,did not survive,male,10-19 years
+1228,Low Class,did not survive,female,20-29 years
+1229,Low Class,Survived,male,30-39 years
+1230,Low Class,did not survive,male,20-29 years
+1231,Low Class,did not survive,female,0-9 years
+1232,Low Class,did not survive,female,20-29 years
+1233,Low Class,Survived,male,10-19 years
+1234,Low Class,Survived,male,40-49 years
+1235,Low Class,did not survive,male,20-29 years
+1236,Low Class,did not survive,male,70-79 years
+1237,Low Class,Survived,male,10-19 years
+1238,Low Class,did not survive,male,20-29 years
+1239,Low Class,Survived,male,20-29 years
+1240,Low Class,did not survive,male,30-39 years
+1241,Low Class,Survived,male,0-9 years
+1242,Low Class,did not survive,male,20-29 years
+1243,Low Class,did not survive,male,20-29 years
+1244,Low Class,did not survive,male,20-29 years
+1245,Low Class,Survived,female,10-19 years
+1246,Low Class,did not survive,male,20-29 years
+1247,Low Class,did not survive,male,20-29 years
+1248,Low Class,Survived,female,20-29 years
+1249,Low Class,did not survive,male,30-39 years
+1250,Low Class,did not survive,male,20-29 years
+1251,Low Class,did not survive,male,20-29 years
+1252,Low Class,did not survive,male,30-39 years
+1253,Low Class,did not survive,male,40-49 years
+1254,Low Class,did not survive,male,20-29 years
+1255,Low Class,Survived,male,20-29 years
+1256,Low Class,did not survive,male,20-29 years
+1257,Low Class,Survived,male,0-9 years
+1258,Low Class,Survived,female,0-9 years
+1259,Low Class,Survived,female,20-29 years
+1260,Low Class,did not survive,male,30-39 years
+1261,Low Class,Survived,female,10-19 years
+1262,Low Class,Survived,female,60-69 years
+1263,Low Class,did not survive,male,20-29 years
+1264,Low Class,did not survive,male,10-19 years
+1265,Low Class,did not survive,male,40-49 years
+1266,Low Class,did not survive,female,10-19 years
+1267,Low Class,did not survive,male,30-39 years
+1268,Low Class,did not survive,female,30-39 years
+1269,Low Class,did not survive,male,20-29 years
+1270,Low Class,did not survive,male,30-39 years
+1271,Low Class,did not survive,male,20-29 years
+1272,Low Class,did not survive,male,20-29 years
+1273,Low Class,did not survive,male,40-49 years
+1274,Low Class,did not survive,female,10-19 years
+1275,Low Class,did not survive,male,30-39 years
+1276,Low Class,did not survive,male,10-19 years
+1277,Low Class,did not survive,female,30-39 years
+1278,Low Class,Survived,male,20-29 years
+1279,Low Class,did not survive,male,20-29 years
+1280,Low Class,did not survive,female,10-19 years
+1281,Low Class,did not survive,male,20-29 years
+1282,Low Class,did not survive,male,20-29 years
+1283,Low Class,did not survive,male,20-29 years
+1284,Low Class,did not survive,male,20-29 years
+1285,Low Class,did not survive,male,20-29 years
+1286,Low Class,did not survive,male,30-39 years
+1287,Low Class,Survived,female,30-39 years
+1288,Low Class,did not survive,male,50-59 years
+1289,Low Class,did not survive,male,10-19 years
+1290,Low Class,did not survive,male,20-29 years
+1291,Low Class,Survived,female,40-49 years
+1292,Low Class,did not survive,male,20-29 years
+1293,Low Class,did not survive,male,20-29 years
+1294,Low Class,did not survive,male,20-29 years
+1295,Low Class,did not survive,male,20-29 years
+1296,Low Class,did not survive,male,20-29 years
+1297,Low Class,did not survive,male,20-29 years
+1298,Low Class,did not survive,male,20-29 years
+1299,Low Class,did not survive,male,30-39 years
+1300,Low Class,did not survive,male,20-29 years
+1301,Low Class,Survived,female,10-19 years
+1302,Low Class,did not survive,male,40-49 years
+1303,Low Class,did not survive,male,20-29 years
+1304,Low Class,did not survive,male,20-29 years
+1305,Low Class,did not survive,female,10-19 years
+1306,Low Class,did not survive,female,20-29 years
+1307,Low Class,did not survive,male,20-29 years
+1308,Low Class,did not survive,male,20-29 years
+1309,Low Class,did not survive,male,20-29 years
